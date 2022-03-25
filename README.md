@@ -13,6 +13,6 @@ https://not-have.github.io/resources/路径
 ```bash
 设定仓库名：Not-have/resources
 设置分支：main（自己要上传的分支）
-设定token：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
+设定token：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
 剩下的可不写
 ```
